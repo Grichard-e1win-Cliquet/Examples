@@ -1,6 +1,4 @@
 ﻿Console.Clear();
-//Console.SetCursorPosition(10, 4);
-//Console.WriteLine("+");
 
 int count = 0;
 int distance = 10000;
